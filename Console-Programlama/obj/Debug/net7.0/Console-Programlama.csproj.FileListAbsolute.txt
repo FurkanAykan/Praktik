@@ -1,0 +1,15 @@
+C:\Users\Furkan\OneDrive\Masaüstü\Pratikler\Console-Programlama\bin\Debug\net7.0\Console-Programlama.exe
+C:\Users\Furkan\OneDrive\Masaüstü\Pratikler\Console-Programlama\bin\Debug\net7.0\Console-Programlama.deps.json
+C:\Users\Furkan\OneDrive\Masaüstü\Pratikler\Console-Programlama\bin\Debug\net7.0\Console-Programlama.runtimeconfig.json
+C:\Users\Furkan\OneDrive\Masaüstü\Pratikler\Console-Programlama\bin\Debug\net7.0\Console-Programlama.dll
+C:\Users\Furkan\OneDrive\Masaüstü\Pratikler\Console-Programlama\bin\Debug\net7.0\Console-Programlama.pdb
+C:\Users\Furkan\OneDrive\Masaüstü\Pratikler\Console-Programlama\obj\Debug\net7.0\Console-Programlama.csproj.AssemblyReference.cache
+C:\Users\Furkan\OneDrive\Masaüstü\Pratikler\Console-Programlama\obj\Debug\net7.0\Console-Programlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\OneDrive\Masaüstü\Pratikler\Console-Programlama\obj\Debug\net7.0\Console-Programlama.AssemblyInfoInputs.cache
+C:\Users\Furkan\OneDrive\Masaüstü\Pratikler\Console-Programlama\obj\Debug\net7.0\Console-Programlama.AssemblyInfo.cs
+C:\Users\Furkan\OneDrive\Masaüstü\Pratikler\Console-Programlama\obj\Debug\net7.0\Console-Programlama.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\OneDrive\Masaüstü\Pratikler\Console-Programlama\obj\Debug\net7.0\Console-Programlama.dll
+C:\Users\Furkan\OneDrive\Masaüstü\Pratikler\Console-Programlama\obj\Debug\net7.0\refint\Console-Programlama.dll
+C:\Users\Furkan\OneDrive\Masaüstü\Pratikler\Console-Programlama\obj\Debug\net7.0\Console-Programlama.pdb
+C:\Users\Furkan\OneDrive\Masaüstü\Pratikler\Console-Programlama\obj\Debug\net7.0\Console-Programlama.genruntimeconfig.cache
+C:\Users\Furkan\OneDrive\Masaüstü\Pratikler\Console-Programlama\obj\Debug\net7.0\ref\Console-Programlama.dll

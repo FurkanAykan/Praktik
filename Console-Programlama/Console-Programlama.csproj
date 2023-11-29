@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+  <!-- uzantısı Exe -->
+    <OutputType>Exe</OutputType> 
+    <!-- .net sürümü 7  -->
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>Console_Programlama</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
